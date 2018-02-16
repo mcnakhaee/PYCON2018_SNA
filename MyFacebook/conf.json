@@ -1,0 +1,8 @@
+{
+    "email" : "",
+    "password" : "",
+    "output" : "mygraph",
+    "proxy" : "mydas.ir:3128",
+    "use_proxy" : false,
+    "timeout" : 150
+} 
