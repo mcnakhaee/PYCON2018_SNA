@@ -1,2 +1,3 @@
 # PYCON2018_SNA
-All Resources for PYCON 2018
+This repository contains all the resoruces for my talk at PYCON 2018
+
